@@ -1,0 +1,15 @@
+photutils 
+NumPy
+Astropy
+Scipy
+Matplotlib
+scikit-image
+scikit-learn
+GWCS
+Bottleneck
+tqdm
+Rasterio
+Shapely
+pytest-astropy 
+ipykernel 
+seaborn 
